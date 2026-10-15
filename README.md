@@ -1,3 +1,4 @@
+![Profile Banner](https://github.com/fattiiiii/fattiiiii/blob/main/Black%20Minimalist%20Linkedin%20Banner.png)
 <h1 align="center">Hi 👋, I'm Fatima</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
